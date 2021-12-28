@@ -127,6 +127,8 @@ func TestPerB(t *testing.T) {
 		{time.Date(2069, 7, 11, 9, 39, 12, 27157, time.UTC),
 			"es_MX", "julio"},
 		{time.Date(1994, 1, 7, 9, 51, 27, 222686, time.UTC),
+			"fi_FI", "tammikuuta"},
+		{time.Date(1994, 1, 7, 9, 51, 27, 222686, time.UTC),
 			"da_DK", "januar"},
 		{time.Date(1988, 12, 1, 17, 51, 22, 853401, time.UTC),
 			"ru_RU", "Декабрь"},
