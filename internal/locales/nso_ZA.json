@@ -1,0 +1,57 @@
+{
+	"ID": "nso_ZA",
+	"Days": [
+		"LaMorena",
+		"Mošupologo",
+		"Labobedi",
+		"Laboraro",
+		"Labone",
+		"Labohlano",
+		"Mokibelo"
+	],
+	"ShortDays": [
+		"Son",
+		"Moš",
+		"Bed",
+		"Rar",
+		"Ne",
+		"Hla",
+		"Mok"
+	],
+	"Months": [
+		"Janaware",
+		"Febereware",
+		"Matšhe",
+		"Aprele",
+		"Mei",
+		"June",
+		"Julae",
+		"Agostose",
+		"Setemere",
+		"Oktobere",
+		"Nofemere",
+		"Disemere"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Feb",
+		"Mat",
+		"Apr",
+		"Mei",
+		"Jun",
+		"Jul",
+		"Ago",
+		"Set",
+		"Okt",
+		"Nof",
+		"Dis"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

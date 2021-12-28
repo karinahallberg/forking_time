@@ -1,0 +1,57 @@
+{
+	"ID": "is_IS",
+	"Days": [
+		"sunnudagur",
+		"mánudagur",
+		"þriðjudagur",
+		"miðvikudagur",
+		"fimmtudagur",
+		"föstudagur",
+		"laugardagur"
+	],
+	"ShortDays": [
+		"sun",
+		"mán",
+		"þri",
+		"mið",
+		"fim",
+		"fös",
+		"lau"
+	],
+	"Months": [
+		"janúar",
+		"febrúar",
+		"mars",
+		"apríl",
+		"maí",
+		"júní",
+		"júlí",
+		"ágúst",
+		"september",
+		"október",
+		"nóvember",
+		"desember"
+	],
+	"ShortMonths": [
+		"jan",
+		"feb",
+		"mar",
+		"apr",
+		"maí",
+		"jún",
+		"júl",
+		"ágú",
+		"sep",
+		"okt",
+		"nóv",
+		"des"
+	],
+	"AMPM": [
+		"fh",
+		"eh"
+	],
+	"Date": "%a %e.%b %Y",
+	"DateTime": "%a %e.%b %Y, %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

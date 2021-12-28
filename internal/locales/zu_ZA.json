@@ -1,0 +1,57 @@
+{
+	"ID": "zu_ZA",
+	"Days": [
+		"iSonto",
+		"uMsombuluko",
+		"uLwesibili",
+		"uLwesithathu",
+		"uLwesine",
+		"uLwesihlanu",
+		"uMgqibelo"
+	],
+	"ShortDays": [
+		"Son",
+		"Mso",
+		"Bil",
+		"Tha",
+		"Sin",
+		"Hla",
+		"Mgq"
+	],
+	"Months": [
+		"uMasingana",
+		"uNhlolanja",
+		"uNdasa",
+		"uMbasa",
+		"uNhlaba",
+		"uNhlangulana",
+		"uNtulikazi",
+		"uNcwaba",
+		"uMandulo",
+		"uMfumfu",
+		"uLwezi",
+		"uZibandlela"
+	],
+	"ShortMonths": [
+		"Mas",
+		"Ola",
+		"Nda",
+		"Mba",
+		"Aba",
+		"Ang",
+		"Ntu",
+		"Ncw",
+		"Man",
+		"Mfu",
+		"Lwe",
+		"Zib"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

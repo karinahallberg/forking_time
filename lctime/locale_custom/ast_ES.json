@@ -1,0 +1,57 @@
+{
+	"ID": "ast_ES",
+	"Days": [
+		"domingu",
+		"llunes",
+		"martes",
+		"miércoles",
+		"xueves",
+		"vienres",
+		"sábadu"
+	],
+	"ShortDays": [
+		"dom",
+		"llu",
+		"mar",
+		"mié",
+		"xue",
+		"vie",
+		"sáb"
+	],
+	"Months": [
+		"xineru",
+		"febreru",
+		"marzu",
+		"abril",
+		"mayu",
+		"xunu",
+		"xunetu",
+		"agostu",
+		"setiembre",
+		"ochobre",
+		"payares",
+		"avientu"
+	],
+	"ShortMonths": [
+		"xin",
+		"feb",
+		"mar",
+		"abr",
+		"may",
+		"xun",
+		"xnt",
+		"ago",
+		"set",
+		"och",
+		"pay",
+		"avi"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

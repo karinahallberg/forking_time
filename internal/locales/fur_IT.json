@@ -1,0 +1,57 @@
+{
+	"ID": "fur_IT",
+	"Days": [
+		"Domenie",
+		"Lunis",
+		"Martars",
+		"Miarcus",
+		"Joibe",
+		"Vinars",
+		"Sabide"
+	],
+	"ShortDays": [
+		"Dom",
+		"Lun",
+		"Mar",
+		"Mia",
+		"Joi",
+		"Vin",
+		"Sab"
+	],
+	"Months": [
+		"Zenâr",
+		"Fevrâr",
+		"Març",
+		"Avrîl",
+		"Mai",
+		"Jugn",
+		"Lui",
+		"Avost",
+		"Setembar",
+		"Otubar",
+		"Novembar",
+		"Decembar"
+	],
+	"ShortMonths": [
+		"Zen",
+		"Fev",
+		"Mar",
+		"Avr",
+		"Mai",
+		"Jug",
+		"Lui",
+		"Avo",
+		"Set",
+		"Otu",
+		"Nov",
+		"Dec"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d. %m. %y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

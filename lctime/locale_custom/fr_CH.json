@@ -1,0 +1,57 @@
+{
+	"ID": "fr_CH",
+	"Days": [
+		"dimanche",
+		"lundi",
+		"mardi",
+		"mercredi",
+		"jeudi",
+		"vendredi",
+		"samedi"
+	],
+	"ShortDays": [
+		"dim",
+		"lun",
+		"mar",
+		"mer",
+		"jeu",
+		"ven",
+		"sam"
+	],
+	"Months": [
+		"janvier",
+		"février",
+		"mars",
+		"avril",
+		"mai",
+		"juin",
+		"juillet",
+		"août",
+		"septembre",
+		"octobre",
+		"novembre",
+		"décembre"
+	],
+	"ShortMonths": [
+		"jan",
+		"fév",
+		"mar",
+		"avr",
+		"mai",
+		"jun",
+		"jui",
+		"aoû",
+		"sep",
+		"oct",
+		"nov",
+		"déc"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d. %m. %y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

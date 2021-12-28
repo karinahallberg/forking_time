@@ -1,0 +1,57 @@
+{
+	"ID": "ga_IE",
+	"Days": [
+		"Dé Domhnaigh",
+		"Dé Luain",
+		"Dé Máirt",
+		"Dé Céadaoin",
+		"Déardaoin",
+		"Dé hAoine",
+		"Dé Sathairn"
+	],
+	"ShortDays": [
+		"Domh",
+		"Luan",
+		"Máirt",
+		"Céad",
+		"Déar",
+		"Aoine",
+		"Sath"
+	],
+	"Months": [
+		"Eanáir",
+		"Feabhra",
+		"Márta",
+		"Aibreán",
+		"Bealtaine",
+		"Meitheamh",
+		"Iúil",
+		"Lúnasa",
+		"Meán Fómhair",
+		"Deireadh Fómhair",
+		"Samhain",
+		"Nollaig"
+	],
+	"ShortMonths": [
+		"Ean",
+		"Feabh",
+		"Márta",
+		"Aib",
+		"Beal",
+		"Meith",
+		"Iúil",
+		"Lún",
+		"MFómh",
+		"DFómh",
+		"Samh",
+		"Noll"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d.%m.%y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

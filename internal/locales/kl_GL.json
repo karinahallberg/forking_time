@@ -1,0 +1,57 @@
+{
+	"ID": "kl_GL",
+	"Days": [
+		"sabaat",
+		"ataasinngorneq",
+		"marlunngorneq",
+		"pingasunngorneq",
+		"sisamanngorneq",
+		"tallimanngorneq",
+		"arfininngorneq"
+	],
+	"ShortDays": [
+		"sab",
+		"ata",
+		"mar",
+		"pin",
+		"sis",
+		"tal",
+		"arf"
+	],
+	"Months": [
+		"januari",
+		"februari",
+		"martsi",
+		"aprili",
+		"maji",
+		"juni",
+		"juli",
+		"augustusi",
+		"septemberi",
+		"oktoberi",
+		"novemberi",
+		"decemberi"
+	],
+	"ShortMonths": [
+		"jan",
+		"feb",
+		"mar",
+		"apr",
+		"maj",
+		"jun",
+		"jul",
+		"aug",
+		"sep",
+		"okt",
+		"nov",
+		"dec"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d %b %Y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

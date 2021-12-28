@@ -1,0 +1,57 @@
+{
+	"ID": "ms_MY",
+	"Days": [
+		"Ahad",
+		"Isnin",
+		"Selasa",
+		"Rabu",
+		"Khamis",
+		"Jumaat",
+		"Sabtu"
+	],
+	"ShortDays": [
+		"Ahd",
+		"Isn",
+		"Sel",
+		"Rab",
+		"Kha",
+		"Jum",
+		"Sab"
+	],
+	"Months": [
+		"Januari",
+		"Februari",
+		"Mac",
+		"April",
+		"Mei",
+		"Jun",
+		"Julai",
+		"Ogos",
+		"September",
+		"Oktober",
+		"November",
+		"Disember"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Feb",
+		"Mac",
+		"Apr",
+		"Mei",
+		"Jun",
+		"Jul",
+		"Ogos",
+		"Sep",
+		"Okt",
+		"Nov",
+		"Dis"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%A %d %b %Y",
+	"DateTime": "%A %d %b %Y %I:%M:%S %p %Z",
+	"Time": "%I:%M:%S %Z",
+	"TimeAMPM": "%I:%M:%S %p %Z"
+}

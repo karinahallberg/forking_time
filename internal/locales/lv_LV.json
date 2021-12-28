@@ -1,0 +1,57 @@
+{
+	"ID": "lv_LV",
+	"Days": [
+		"svētdiena",
+		"pirmdiena",
+		"otrdiena",
+		"trešdiena",
+		"ceturtdiena",
+		"piektdiena",
+		"sestdiena"
+	],
+	"ShortDays": [
+		"Sv",
+		"P",
+		"O",
+		"T",
+		"C",
+		"Pk",
+		"S"
+	],
+	"Months": [
+		"janvāris",
+		"februāris",
+		"marts",
+		"aprīlis",
+		"maijs",
+		"jūnijs",
+		"jūlijs",
+		"augusts",
+		"septembris",
+		"oktobris",
+		"novembris",
+		"decembris"
+	],
+	"ShortMonths": [
+		"jan",
+		"feb",
+		"mar",
+		"apr",
+		"mai",
+		"jūn",
+		"jūl",
+		"aug",
+		"sep",
+		"okt",
+		"nov",
+		"dec"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%Y.%m.%d.",
+	"DateTime": "%A, %Y. gada %e. %B, plkst. %H un %M",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

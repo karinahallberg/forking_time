@@ -1,0 +1,57 @@
+{
+	"ID": "st_ZA",
+	"Days": [
+		"Sontaha",
+		"Mantaha",
+		"Labobedi",
+		"Laboraro",
+		"Labone",
+		"Labohlano",
+		"Moqebelo"
+	],
+	"ShortDays": [
+		"Son",
+		"Mma",
+		"Bed",
+		"Rar",
+		"Ne",
+		"Hla",
+		"Moq"
+	],
+	"Months": [
+		"Pherekgong",
+		"Hlakola",
+		"Tlhakubele",
+		"Mmese",
+		"Motsheanong",
+		"Phupjane",
+		"Phupu",
+		"Phato",
+		"Leotse",
+		"Mphalane",
+		"Pudungwana",
+		"Tshitwe"
+	],
+	"ShortMonths": [
+		"Phe",
+		"Hla",
+		"TlH",
+		"Mme",
+		"Mot",
+		"Jan",
+		"Upu",
+		"Pha",
+		"Leo",
+		"Mph",
+		"Pud",
+		"Tsh"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%a %-e %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

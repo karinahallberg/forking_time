@@ -1,0 +1,57 @@
+{
+	"ID": "crh_UA",
+	"Days": [
+		"Bazar",
+		"Bazarertesi",
+		"Salı",
+		"Çarşembe",
+		"Cumaaqşamı",
+		"Cuma",
+		"Cumaertesi"
+	],
+	"ShortDays": [
+		"Baz",
+		"Ber",
+		"Sal",
+		"Çar",
+		"Caq",
+		"Cum",
+		"Cer"
+	],
+	"Months": [
+		"Yanvar",
+		"Fevral",
+		"Mart",
+		"Aprel",
+		"Mayıs",
+		"İyun",
+		"İyul",
+		"Avgust",
+		"Sentâbr",
+		"Oktâbr",
+		"Noyabr",
+		"Dekabr"
+	],
+	"ShortMonths": [
+		"Yan",
+		"Fev",
+		"Mar",
+		"Apr",
+		"May",
+		"İyn",
+		"İyl",
+		"Avg",
+		"Sen",
+		"Okt",
+		"Noy",
+		"Dek"
+	],
+	"AMPM": [
+		"ÜE",
+		"ÜS"
+	],
+	"Date": "%d.%m.%Y",
+	"DateTime": "%a %d %b %Y %T",
+	"Time": "%T",
+	"TimeAMPM": "%I:%M:%S %p"
+}

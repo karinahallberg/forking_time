@@ -1,0 +1,57 @@
+{
+	"ID": "nr_ZA",
+	"Days": [
+		"uSonto",
+		"uMvulo",
+		"uLesibili",
+		"lesithathu",
+		"uLesine",
+		"ngoLesihlanu",
+		"umGqibelo"
+	],
+	"ShortDays": [
+		"Son",
+		"Mvu",
+		"Bil",
+		"Tha",
+		"Ne",
+		"Hla",
+		"Gqi"
+	],
+	"Months": [
+		"Janabari",
+		"uFeberbari",
+		"uMatjhi",
+		"u-Apreli",
+		"Meyi",
+		"Juni",
+		"Julayi",
+		"Arhostosi",
+		"Septemba",
+		"Oktoba",
+		"Usinyikhaba",
+		"Disemba"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Feb",
+		"Mat",
+		"Apr",
+		"Mey",
+		"Jun",
+		"Jul",
+		"Arh",
+		"Sep",
+		"Okt",
+		"Usi",
+		"Dis"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%a %-e %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

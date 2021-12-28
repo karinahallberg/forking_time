@@ -1,0 +1,57 @@
+{
+	"ID": "nb_NO",
+	"Days": [
+		"søndag",
+		"mandag",
+		"tirsdag",
+		"onsdag",
+		"torsdag",
+		"fredag",
+		"lørdag"
+	],
+	"ShortDays": [
+		"sø.",
+		"ma.",
+		"ti.",
+		"on.",
+		"to.",
+		"fr.",
+		"lø."
+	],
+	"Months": [
+		"januar",
+		"februar",
+		"mars",
+		"april",
+		"mai",
+		"juni",
+		"juli",
+		"august",
+		"september",
+		"oktober",
+		"november",
+		"desember"
+	],
+	"ShortMonths": [
+		"jan.",
+		"feb.",
+		"mars",
+		"april",
+		"mai",
+		"juni",
+		"juli",
+		"aug.",
+		"sep.",
+		"okt.",
+		"nov.",
+		"des."
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d. %b %Y",
+	"DateTime": "%a %d. %b %Y kl. %H.%M %z",
+	"Time": "kl. %H.%M %z",
+	"TimeAMPM": ""
+}

@@ -1,0 +1,57 @@
+{
+	"ID": "bs_BA",
+	"Days": [
+		"Nedjelja",
+		"Ponedjeljak",
+		"Utorak",
+		"Srijeda",
+		"Četvrtak",
+		"Petak",
+		"Subota"
+	],
+	"ShortDays": [
+		"Ned",
+		"Pon",
+		"Uto",
+		"Sri",
+		"Čet",
+		"Pet",
+		"Sub"
+	],
+	"Months": [
+		"Januar",
+		"Februar",
+		"Mart",
+		"April",
+		"Maj",
+		"Juni",
+		"Juli",
+		"August",
+		"Septembar",
+		"Oktobar",
+		"Novembar",
+		"Decembar"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Feb",
+		"Mar",
+		"Apr",
+		"Maj",
+		"Jun",
+		"Jul",
+		"Aug",
+		"Sep",
+		"Okt",
+		"Nov",
+		"Dec"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d.%m.%Y",
+	"DateTime": "%a %d %b %Y %T",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

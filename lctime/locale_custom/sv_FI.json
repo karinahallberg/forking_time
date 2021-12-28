@@ -1,0 +1,57 @@
+{
+	"ID": "sv_FI",
+	"Days": [
+		"söndag",
+		"måndag",
+		"tisdag",
+		"onsdag",
+		"torsdag",
+		"fredag",
+		"lördag"
+	],
+	"ShortDays": [
+		"sön",
+		"mån",
+		"tis",
+		"ons",
+		"tor",
+		"fre",
+		"lör"
+	],
+	"Months": [
+		"januari",
+		"februari",
+		"mars",
+		"april",
+		"maj",
+		"juni",
+		"juli",
+		"augusti",
+		"september",
+		"oktober",
+		"november",
+		"december"
+	],
+	"ShortMonths": [
+		"jan",
+		"feb",
+		"mar",
+		"apr",
+		"maj",
+		"jun",
+		"jul",
+		"aug",
+		"sep",
+		"okt",
+		"nov",
+		"dec"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d.%m.%Y",
+	"DateTime": "%a %e. %B %Y %H.%M.%S",
+	"Time": "%H.%M.%S",
+	"TimeAMPM": ""
+}

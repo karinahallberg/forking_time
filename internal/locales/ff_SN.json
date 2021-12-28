@@ -1,0 +1,57 @@
+{
+	"ID": "ff_SN",
+	"Days": [
+		"dewo",
+		"aaɓnde",
+		"mawbaare",
+		"njeslaare",
+		"naasaande",
+		"mawnde",
+		"hoore-biir"
+	],
+	"ShortDays": [
+		"dew",
+		"aaɓ",
+		"maw",
+		"nje",
+		"naa",
+		"mwd",
+		"hbi"
+	],
+	"Months": [
+		"siilo",
+		"colte",
+		"mbooy",
+		"seeɗto",
+		"duujal",
+		"korse",
+		"morso",
+		"juko",
+		"siilto",
+		"yarkomaa",
+		"jolal",
+		"bowte"
+	],
+	"ShortMonths": [
+		"sii",
+		"col",
+		"mbo",
+		"see",
+		"duu",
+		"kor",
+		"mor",
+		"juk",
+		"slt",
+		"yar",
+		"jol",
+		"bow"
+	],
+	"AMPM": [
+		"subaka",
+		"kikiiɗe"
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%a %d %b %Y %R %Z",
+	"Time": "%R",
+	"TimeAMPM": ""
+}

@@ -1,0 +1,57 @@
+{
+	"ID": "lb_LU",
+	"Days": [
+		"Sonndeg",
+		"Méindeg",
+		"Dënschdeg",
+		"Mëttwoch",
+		"Donneschdeg",
+		"Freideg",
+		"Samschdeg"
+	],
+	"ShortDays": [
+		"So",
+		"Mé",
+		"Dë",
+		"Më",
+		"Do",
+		"Fr",
+		"Sa"
+	],
+	"Months": [
+		"Januar",
+		"Februar",
+		"Mäerz",
+		"Abrëll",
+		"Mee",
+		"Juni",
+		"Juli",
+		"August",
+		"September",
+		"Oktober",
+		"November",
+		"Dezember"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Feb",
+		"Mäe",
+		"Abr",
+		"Mee",
+		"Jun",
+		"Jul",
+		"Aug",
+		"Sep",
+		"Okt",
+		"Nov",
+		"Dez"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d.%m.%Y",
+	"DateTime": "%a %d. %b %Y %T",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

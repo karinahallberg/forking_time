@@ -1,0 +1,57 @@
+{
+	"ID": "ro_RO",
+	"Days": [
+		"duminică",
+		"luni",
+		"marţi",
+		"miercuri",
+		"joi",
+		"vineri",
+		"sâmbătă"
+	],
+	"ShortDays": [
+		"Du",
+		"Lu",
+		"Ma",
+		"Mi",
+		"Jo",
+		"Vi",
+		"Sb"
+	],
+	"Months": [
+		"ianuarie",
+		"februarie",
+		"martie",
+		"aprilie",
+		"mai",
+		"iunie",
+		"iulie",
+		"august",
+		"septembrie",
+		"octombrie",
+		"noiembrie",
+		"decembrie"
+	],
+	"ShortMonths": [
+		"ian",
+		"feb",
+		"mar",
+		"apr",
+		"mai",
+		"iun",
+		"iul",
+		"aug",
+		"sep",
+		"oct",
+		"nov",
+		"dec"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d.%m.%Y",
+	"DateTime": "%a %d %b %Y %T %z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

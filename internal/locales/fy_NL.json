@@ -1,0 +1,57 @@
+{
+	"ID": "fy_NL",
+	"Days": [
+		"Snein",
+		"Moandei",
+		"Tiisdei",
+		"Woansdei",
+		"Tongersdei",
+		"Freed",
+		"Sneon"
+	],
+	"ShortDays": [
+		"Sn",
+		"Mo",
+		"Ti",
+		"Wo",
+		"To",
+		"Fr",
+		"Sn"
+	],
+	"Months": [
+		"Janaris",
+		"Febrewaris",
+		"Maart",
+		"April",
+		"Maaie",
+		"Juny",
+		"July",
+		"Augustus",
+		"Septimber",
+		"Oktober",
+		"Novimber",
+		"Desimber"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Feb",
+		"Maa",
+		"Apr",
+		"Maa",
+		"Jun",
+		"Jul",
+		"Aug",
+		"Sep",
+		"Okt",
+		"Nov",
+		"Des"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d-%m-%y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

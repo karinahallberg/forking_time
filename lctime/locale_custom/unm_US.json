@@ -1,0 +1,57 @@
+{
+	"ID": "unm_US",
+	"Days": [
+		"kentuwei",
+		"manteke",
+		"tusteke",
+		"lelai",
+		"tasteke",
+		"pelaiteke",
+		"sateteke"
+	],
+	"ShortDays": [
+		"ken",
+		"man",
+		"tus",
+		"lel",
+		"tas",
+		"pel",
+		"sat"
+	],
+	"Months": [
+		"enikwsi",
+		"chkwali",
+		"xamokhwite",
+		"kwetayoxe",
+		"tainipen",
+		"kichinipen",
+		"lainipen",
+		"winaminke",
+		"kichitahkok",
+		"puksit",
+		"wini",
+		"muxkotae"
+	],
+	"ShortMonths": [
+		"eni",
+		"chk",
+		"xam",
+		"kwe",
+		"tai",
+		"nip",
+		"lai",
+		"win",
+		"tah",
+		"puk",
+		"kun",
+		"mux"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

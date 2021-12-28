@@ -1,0 +1,57 @@
+{
+	"ID": "wae_CH",
+	"Days": [
+		"Suntag",
+		"Mäntag",
+		"Zischtag",
+		"Mittwuch",
+		"Frontag",
+		"Fritag",
+		"Samschtag"
+	],
+	"ShortDays": [
+		"Sun",
+		"Män",
+		"Zis",
+		"Mit",
+		"Fro",
+		"Fri",
+		"Sam"
+	],
+	"Months": [
+		"Jener",
+		"Hornig",
+		"Märze",
+		"Abrille",
+		"Meije",
+		"Bráchet",
+		"Heiwet",
+		"Öigschte",
+		"Herbschtmánet",
+		"Wímánet",
+		"Wintermánet",
+		"Chrischtmánet"
+	],
+	"ShortMonths": [
+		"Jen",
+		"Hor",
+		"Mär",
+		"Abr",
+		"Mei",
+		"Brá",
+		"Hei",
+		"Öig",
+		"Her",
+		"Wím",
+		"Win",
+		"Chr"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%Y-%m-%d",
+	"DateTime": "%a %d. %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

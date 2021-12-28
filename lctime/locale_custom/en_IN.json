@@ -1,0 +1,57 @@
+{
+	"ID": "en_IN",
+	"Days": [
+		"Sunday",
+		"Monday",
+		"Tuesday",
+		"Wednesday",
+		"Thursday",
+		"Friday",
+		"Saturday"
+	],
+	"ShortDays": [
+		"Sun",
+		"Mon",
+		"Tue",
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat"
+	],
+	"Months": [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Feb",
+		"Mar",
+		"Apr",
+		"May",
+		"Jun",
+		"Jul",
+		"Aug",
+		"Sep",
+		"Oct",
+		"Nov",
+		"Dec"
+	],
+	"AMPM": [
+		"AM",
+		"PM"
+	],
+	"Date": "%A %d %B %Y",
+	"DateTime": "%A %d %B %Y %I:%M:%S %p %Z",
+	"Time": "%I:%M:%S %Z",
+	"TimeAMPM": "%I:%M:%S %p %Z"
+}

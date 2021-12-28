@@ -1,0 +1,57 @@
+{
+	"ID": "pap_AN",
+	"Days": [
+		"Djadomingo",
+		"Djaluna",
+		"Djamars",
+		"Djawebs",
+		"Djarason",
+		"Djabierne",
+		"Djasabra"
+	],
+	"ShortDays": [
+		"do",
+		"lu",
+		"ma",
+		"we",
+		"ra",
+		"bi",
+		"sa"
+	],
+	"Months": [
+		"Yanüari",
+		"Febrüari",
+		"Mart",
+		"Aprel",
+		"Mei",
+		"Yüni",
+		"Yüli",
+		"Ougùstùs",
+		"Sèptèmber",
+		"Oktober",
+		"Novèmber",
+		"Desèmber"
+	],
+	"ShortMonths": [
+		"Yan",
+		"Feb",
+		"Mar",
+		"Apr",
+		"Mei",
+		"Yün",
+		"Yül",
+		"Oug",
+		"Sèp",
+		"Okt",
+		"Nov",
+		"Des"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d-%m-%y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

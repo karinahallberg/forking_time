@@ -1,0 +1,57 @@
+{
+	"ID": "lg_UG",
+	"Days": [
+		"Sabiiti",
+		"Balaza",
+		"Lwakubiri",
+		"Lwakusatu",
+		"Lwakuna",
+		"Lwakutaano",
+		"Lwamukaaga"
+	],
+	"ShortDays": [
+		"Sab",
+		"Bal",
+		"Lw2",
+		"Lw3",
+		"Lw4",
+		"Lw5",
+		"Lw6"
+	],
+	"Months": [
+		"Janwaliyo",
+		"Febwaliyo",
+		"Marisi",
+		"Apuli",
+		"Maayi",
+		"Juuni",
+		"Julaai",
+		"Agusito",
+		"Sebuttemba",
+		"Okitobba",
+		"Novemba",
+		"Desemba"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Feb",
+		"Mar",
+		"Apu",
+		"Maa",
+		"Jun",
+		"Jul",
+		"Agu",
+		"Seb",
+		"Oki",
+		"Nov",
+		"Des"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

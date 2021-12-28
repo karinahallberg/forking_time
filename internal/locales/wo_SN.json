@@ -1,0 +1,57 @@
+{
+	"ID": "wo_SN",
+	"Days": [
+		"dib'eer",
+		"altine",
+		"talaata",
+		"allarba",
+		"alxames",
+		"ajjuma",
+		"gaawu"
+	],
+	"ShortDays": [
+		"dib",
+		"alt",
+		"tal",
+		"all",
+		"alx",
+		"ajj",
+		"gaa"
+	],
+	"Months": [
+		"sanwiy'e",
+		"feebriy'e",
+		"mars",
+		"awril",
+		"me",
+		"suwen",
+		"sulet",
+		"uut",
+		"septaambar",
+		"oktoobar",
+		"nowaambar",
+		"desaambar"
+	],
+	"ShortMonths": [
+		"san",
+		"fee",
+		"mar",
+		"awr",
+		"me",
+		"suw",
+		"sul",
+		"uut",
+		"sep",
+		"okt",
+		"now",
+		"des"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d.%m.%Y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

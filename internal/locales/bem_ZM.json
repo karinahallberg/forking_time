@@ -1,0 +1,57 @@
+{
+	"ID": "bem_ZM",
+	"Days": [
+		"Pa Mulungu",
+		"Palichimo",
+		"Palichibuli",
+		"Palichitatu",
+		"Palichine",
+		"Palichisano",
+		"Pachibelushi"
+	],
+	"ShortDays": [
+		"Sun",
+		"Mon",
+		"Tue",
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat"
+	],
+	"Months": [
+		"Januari",
+		"Februari",
+		"Machi",
+		"Epreo",
+		"Mei",
+		"Juni",
+		"Julai",
+		"Ogasti",
+		"Septemba",
+		"Oktoba",
+		"Novemba",
+		"Disemba"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Feb",
+		"Mar",
+		"Apr",
+		"May",
+		"Jun",
+		"July",
+		"Aug",
+		"Sep",
+		"Oct",
+		"Nov",
+		"Dec"
+	],
+	"AMPM": [
+		"uluchelo",
+		"akasuba"
+	],
+	"Date": "%m/%d/%Y",
+	"DateTime": "%a %d %b %Y %R %Z",
+	"Time": "%T",
+	"TimeAMPM": "%I:%M:%S %p"
+}

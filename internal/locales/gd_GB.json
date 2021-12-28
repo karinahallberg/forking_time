@@ -1,0 +1,57 @@
+{
+	"ID": "gd_GB",
+	"Days": [
+		"Didòmhnaich",
+		"Diluain",
+		"Dimàirt",
+		"Diciadain",
+		"Diardaoin",
+		"Dihaoine",
+		"Disathairne"
+	],
+	"ShortDays": [
+		"Dido",
+		"Dilu",
+		"Dim",
+		"Dic",
+		"Diar",
+		"Diha",
+		"Disa"
+	],
+	"Months": [
+		"Am Faoilteach",
+		"An Gearran",
+		"Am Màrt",
+		"An Giblean",
+		"A' Mhàigh",
+		"An t-Mhìos",
+		"An t-luchar",
+		"An Lùnasdal",
+		"An t-Sultain",
+		"An Damhair",
+		"An t-Samhain",
+		"An Dùbhlachd"
+	],
+	"ShortMonths": [
+		"Fao",
+		"Gea",
+		"Màr",
+		"Gib",
+		"Mhà",
+		"OgM",
+		"luc",
+		"Lùn",
+		"Sul",
+		"Dam",
+		"Sam",
+		"Dùb"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

@@ -1,0 +1,57 @@
+{
+	"ID": "rw_RW",
+	"Days": [
+		"Ku cyumweru",
+		"Kuwa mbere",
+		"Kuwa kabiri",
+		"Kuwa gatatu",
+		"Kuwa kane",
+		"Kuwa gatanu",
+		"Kuwa gatandatu"
+	],
+	"ShortDays": [
+		"Mwe",
+		"Mbe",
+		"Kab",
+		"Gtu",
+		"Kan",
+		"Gnu",
+		"Gnd"
+	],
+	"Months": [
+		"Mutarama",
+		"Gashyantare",
+		"Werurwe",
+		"Mata",
+		"Gicuransi",
+		"Kamena",
+		"Nyakanga",
+		"Kanama",
+		"Nzeli",
+		"Ukwakira",
+		"Ugushyingo",
+		"Ukuboza"
+	],
+	"ShortMonths": [
+		"Mut",
+		"Gas",
+		"Wer",
+		"Mat",
+		"Gic",
+		"Kam",
+		"Nya",
+		"Kan",
+		"Nze",
+		"Ukw",
+		"Ugu",
+		"Uku"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d.%m.%Y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

@@ -1,0 +1,57 @@
+{
+	"ID": "so_KE",
+	"Days": [
+		"Axad",
+		"Isniin",
+		"Salaaso",
+		"Arbaco",
+		"Khamiis",
+		"Jimco",
+		"Sabti"
+	],
+	"ShortDays": [
+		"Axa",
+		"Isn",
+		"Sal",
+		"Arb",
+		"Kha",
+		"Jim",
+		"Sab"
+	],
+	"Months": [
+		"Bisha Koobaad",
+		"Bisha Labaad",
+		"Bisha Saddexaad",
+		"Bisha Afraad",
+		"Bisha Shanaad",
+		"Bisha Lixaad",
+		"Bisha Todobaad",
+		"Bisha Sideedaad",
+		"Bisha Sagaalaad",
+		"Bisha Tobnaad",
+		"Bisha Kow iyo Tobnaad",
+		"Bisha Laba iyo Tobnaad"
+	],
+	"ShortMonths": [
+		"Kob",
+		"Lab",
+		"Sad",
+		"Afr",
+		"Sha",
+		"Lix",
+		"Tod",
+		"Sid",
+		"Sag",
+		"Tob",
+		"KIT",
+		"LIT"
+	],
+	"AMPM": [
+		"subaxnimo",
+		"galabnimo"
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%A, %B %e, %Y %r %Z",
+	"Time": "%I:%M:%S",
+	"TimeAMPM": "%X %p"
+}

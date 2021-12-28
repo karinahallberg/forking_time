@@ -1,0 +1,57 @@
+{
+	"ID": "tn_ZA",
+	"Days": [
+		"laTshipi",
+		"Mosupologo",
+		"Labobedi",
+		"Laboraro",
+		"Labone",
+		"Labotlhano",
+		"Lamatlhatso"
+	],
+	"ShortDays": [
+		"Tsh",
+		"Mos",
+		"Bed",
+		"Rar",
+		"Ne",
+		"Tlh",
+		"Mat"
+	],
+	"Months": [
+		"Ferikgong",
+		"Tlhakole",
+		"Mopitlwe",
+		"Moranang",
+		"Motsheganong",
+		"Seetebosigo",
+		"Phukwi",
+		"Phatwe",
+		"Lwetse",
+		"Diphalane",
+		"Ngwanatsele",
+		"Sedimonthole"
+	],
+	"ShortMonths": [
+		"Fer",
+		"Tlh",
+		"Mop",
+		"Mor",
+		"Mot",
+		"See",
+		"Phu",
+		"Pha",
+		"Lwe",
+		"Dip",
+		"Ngw",
+		"Sed"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%a %-e %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

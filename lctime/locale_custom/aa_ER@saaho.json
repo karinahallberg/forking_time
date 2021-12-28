@@ -1,0 +1,57 @@
+{
+	"ID": "aa_ER@saaho",
+	"Days": [
+		"Naba Sambat",
+		"Sani",
+		"Salus",
+		"Rabuq",
+		"Camus",
+		"Jumqata",
+		"Qunxa Sambat"
+	],
+	"ShortDays": [
+		"Nab",
+		"San",
+		"Sal",
+		"Rab",
+		"Cam",
+		"Jum",
+		"Qun"
+	],
+	"Months": [
+		"Qunxa Garablu",
+		"Naharsi Kudo",
+		"Ciggilta Kudo",
+		"Agda Baxisso",
+		"Caxah Alsa",
+		"Qasa Dirri",
+		"Qado Dirri",
+		"Leqeeni",
+		"Waysu",
+		"Diteli",
+		"Ximoli",
+		"Kaxxa Garablu"
+	],
+	"ShortMonths": [
+		"Qun",
+		"Nah",
+		"Cig",
+		"Agd",
+		"Cax",
+		"Qas",
+		"Qad",
+		"Leq",
+		"Way",
+		"Dit",
+		"Xim",
+		"Kax"
+	],
+	"AMPM": [
+		"saaku",
+		"carra"
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%A, %B %e, %Y %r %Z",
+	"Time": "%I:%M:%S",
+	"TimeAMPM": "%X %p"
+}

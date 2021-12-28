@@ -1,0 +1,57 @@
+{
+	"ID": "cs_CZ",
+	"Days": [
+		"Neděle",
+		"Pondělí",
+		"Úterý",
+		"Středa",
+		"Čtvrtek",
+		"Pátek",
+		"Sobota"
+	],
+	"ShortDays": [
+		"Ne",
+		"Po",
+		"Út",
+		"St",
+		"Čt",
+		"Pá",
+		"So"
+	],
+	"Months": [
+		"leden",
+		"únor",
+		"březen",
+		"duben",
+		"květen",
+		"červen",
+		"červenec",
+		"srpen",
+		"září",
+		"říjen",
+		"listopad",
+		"prosinec"
+	],
+	"ShortMonths": [
+		"led",
+		"úno",
+		"bře",
+		"dub",
+		"kvě",
+		"čen",
+		"čec",
+		"srp",
+		"zář",
+		"říj",
+		"lis",
+		"pro"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%-d.%-m.%Y",
+	"DateTime": "%a %-d. %B %Y, %H:%M:%S %Z",
+	"Time": "%H:%M:%S",
+	"TimeAMPM": "%I:%M:%S"
+}

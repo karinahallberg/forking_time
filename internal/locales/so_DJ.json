@@ -1,0 +1,57 @@
+{
+	"ID": "so_DJ",
+	"Days": [
+		"Axad",
+		"Isniin",
+		"Salaaso",
+		"Arbaco",
+		"Khamiis",
+		"Jimco",
+		"Sabti"
+	],
+	"ShortDays": [
+		"axa",
+		"isn",
+		"sal",
+		"arb",
+		"kha",
+		"jim",
+		"sab"
+	],
+	"Months": [
+		"Bisha Koobaad",
+		"Bisha Labaad",
+		"Bisha Saddexaad",
+		"Bisha Afraad",
+		"Bisha Shanaad",
+		"Bisha Lixaad",
+		"Bisha Todobaad",
+		"Bisha Sideedaad",
+		"Bisha Sagaalaad",
+		"Bisha Tobnaad",
+		"Bisha Kow iyo Tobnaad",
+		"Bisha Laba iyo Tobnaad"
+	],
+	"ShortMonths": [
+		"kob",
+		"lab",
+		"sad",
+		"afr",
+		"sha",
+		"lix",
+		"tod",
+		"sid",
+		"sag",
+		"tob",
+		"kit",
+		"lit"
+	],
+	"AMPM": [
+		"subaxnimo",
+		"galabnimo"
+	],
+	"Date": "%d.%m.%Y",
+	"DateTime": "%a %d %b %Y %r %Z",
+	"Time": "%I:%M:%S",
+	"TimeAMPM": "%X %p"
+}

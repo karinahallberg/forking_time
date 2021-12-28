@@ -1,0 +1,57 @@
+{
+	"ID": "kw_GB",
+	"Days": [
+		"De Sul",
+		"De Lun",
+		"De Merth",
+		"De Merher",
+		"De Yow",
+		"De Gwener",
+		"De Sadorn"
+	],
+	"ShortDays": [
+		"Sul",
+		"Lun",
+		"Mth",
+		"Mhr",
+		"Yow",
+		"Gwe",
+		"Sad"
+	],
+	"Months": [
+		"Mys Genver",
+		"Mys Whevrel",
+		"Mys Merth",
+		"Mys Ebrel",
+		"Mys Me",
+		"Mys Evan",
+		"Mys Gortheren",
+		"Mye Est",
+		"Mys Gwyngala",
+		"Mys Hedra",
+		"Mys Du",
+		"Mys Kevardhu"
+	],
+	"ShortMonths": [
+		"Gen",
+		"Whe",
+		"Mer",
+		"Ebr",
+		"Me",
+		"Evn",
+		"Gor",
+		"Est",
+		"Gwn",
+		"Hed",
+		"Du",
+		"Kev"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

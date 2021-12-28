@@ -1,0 +1,57 @@
+{
+	"ID": "mg_MG",
+	"Days": [
+		"alahady",
+		"alatsinainy",
+		"talata",
+		"alarobia",
+		"alakamisy",
+		"zoma",
+		"sabotsy"
+	],
+	"ShortDays": [
+		"lhd",
+		"lts",
+		"tlt",
+		"lrb",
+		"lkm",
+		"zom",
+		"sab"
+	],
+	"Months": [
+		"janoary",
+		"febroary",
+		"martsa",
+		"aprily",
+		"mey",
+		"jona",
+		"jolay",
+		"aogositra",
+		"septambra",
+		"oktobra",
+		"novambra",
+		"desambra"
+	],
+	"ShortMonths": [
+		"jan",
+		"feb",
+		"mar",
+		"apr",
+		"mey",
+		"jon",
+		"jol",
+		"aog",
+		"sep",
+		"okt",
+		"nov",
+		"des"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d.%m.%Y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

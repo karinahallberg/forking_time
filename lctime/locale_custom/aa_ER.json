@@ -1,0 +1,57 @@
+{
+	"ID": "aa_ER",
+	"Days": [
+		"Acaada",
+		"Etleeni",
+		"Talaata",
+		"Arbaqa",
+		"Kamiisi",
+		"Gumqata",
+		"Sabti"
+	],
+	"ShortDays": [
+		"Aca",
+		"Etl",
+		"Tal",
+		"Arb",
+		"Kam",
+		"Gum",
+		"Sab"
+	],
+	"Months": [
+		"Qunxa Garablu",
+		"Naharsi Kudo",
+		"Ciggilta Kudo",
+		"Agda Baxisso",
+		"Caxah Alsa",
+		"Qasa Dirri",
+		"Qado Dirri",
+		"Leqeeni",
+		"Waysu",
+		"Diteli",
+		"Ximoli",
+		"Kaxxa Garablu"
+	],
+	"ShortMonths": [
+		"Qun",
+		"Nah",
+		"Cig",
+		"Agd",
+		"Cax",
+		"Qas",
+		"Qad",
+		"Leq",
+		"Way",
+		"Dit",
+		"Xim",
+		"Kax"
+	],
+	"AMPM": [
+		"saaku",
+		"carra"
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%A, %B %e, %Y %r %Z",
+	"Time": "%I:%M:%S",
+	"TimeAMPM": "%X %p"
+}

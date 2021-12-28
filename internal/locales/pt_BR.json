@@ -1,0 +1,57 @@
+{
+	"ID": "pt_BR",
+	"Days": [
+		"domingo",
+		"segunda",
+		"terça",
+		"quarta",
+		"quinta",
+		"sexta",
+		"sábado"
+	],
+	"ShortDays": [
+		"Dom",
+		"Seg",
+		"Ter",
+		"Qua",
+		"Qui",
+		"Sex",
+		"Sáb"
+	],
+	"Months": [
+		"janeiro",
+		"fevereiro",
+		"março",
+		"abril",
+		"maio",
+		"junho",
+		"julho",
+		"agosto",
+		"setembro",
+		"outubro",
+		"novembro",
+		"dezembro"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Fev",
+		"Mar",
+		"Abr",
+		"Mai",
+		"Jun",
+		"Jul",
+		"Ago",
+		"Set",
+		"Out",
+		"Nov",
+		"Dez"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d-%m-%Y",
+	"DateTime": "%a %d %b %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

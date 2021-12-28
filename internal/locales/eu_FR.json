@@ -1,0 +1,57 @@
+{
+	"ID": "eu_FR",
+	"Days": [
+		"igandea",
+		"astelehena",
+		"asteartea",
+		"asteazkena",
+		"osteguna",
+		"ostirala",
+		"larunbata"
+	],
+	"ShortDays": [
+		"ig.",
+		"al.",
+		"ar.",
+		"az.",
+		"og.",
+		"or.",
+		"lr."
+	],
+	"Months": [
+		"urtarrila",
+		"otsaila",
+		"martxoa",
+		"apirila",
+		"maiatza",
+		"ekaina",
+		"uztaila",
+		"abuztua",
+		"iraila",
+		"urria",
+		"azaroa",
+		"abendua"
+	],
+	"ShortMonths": [
+		"urt",
+		"ots",
+		"mar",
+		"api",
+		"mai",
+		"eka",
+		"uzt",
+		"abu",
+		"ira",
+		"urr",
+		"aza",
+		"abe"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%a, %Y.eko %bren %da",
+	"DateTime": "%y-%m-%d %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

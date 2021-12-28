@@ -1,0 +1,57 @@
+{
+	"ID": "ku_TR",
+	"Days": [
+		"Yekşem",
+		"Duşem",
+		"Sêşem",
+		"Çarşem",
+		"Pêncşem",
+		"În",
+		"Şemî"
+	],
+	"ShortDays": [
+		"Yş",
+		"Dş",
+		"Sş",
+		"Çş",
+		"Pş",
+		"În",
+		"Ş"
+	],
+	"Months": [
+		"çile",
+		"sibat",
+		"adar",
+		"nîsan",
+		"gulan",
+		"hezîran",
+		"tîrmeh",
+		"tebax",
+		"îlon",
+		"cotmeh",
+		"mijdar",
+		"kanûn"
+	],
+	"ShortMonths": [
+		"Çil",
+		"Sib",
+		"Ada",
+		"Nîs",
+		"Gul",
+		"Hez",
+		"Tîr",
+		"Teb",
+		"Îlo",
+		"Cot",
+		"Mij",
+		"Kan"
+	],
+	"AMPM": [
+		"",
+		""
+	],
+	"Date": "%d/%m/%Y",
+	"DateTime": "%A %d %B %Y %T %Z",
+	"Time": "%T",
+	"TimeAMPM": ""
+}

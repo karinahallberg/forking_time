@@ -1,0 +1,57 @@
+{
+	"ID": "ha_NG",
+	"Days": [
+		"Lahadi",
+		"Litini",
+		"Talata",
+		"Laraba",
+		"Alhamis",
+		"Juma'a",
+		"Asabar"
+	],
+	"ShortDays": [
+		"Lah",
+		"Lit",
+		"Tal",
+		"Lar",
+		"Alh",
+		"Jum",
+		"Asa"
+	],
+	"Months": [
+		"Janairu",
+		"Fabrairu",
+		"Maris",
+		"Afrilu",
+		"Mayu",
+		"Yuni",
+		"Yuli",
+		"Agusta",
+		"Satumba",
+		"Oktoba",
+		"Nuwamba",
+		"Disamba"
+	],
+	"ShortMonths": [
+		"Jan",
+		"Fab",
+		"Mar",
+		"Afr",
+		"May",
+		"Yun",
+		"Yul",
+		"Agu",
+		"Sat",
+		"Okt",
+		"Nuw",
+		"Dis"
+	],
+	"AMPM": [
+		"AM",
+		"PM"
+	],
+	"Date": "%d/%m/%y",
+	"DateTime": "ranar %A, %d ga %B cikin %r %Z",
+	"Time": "%r",
+	"TimeAMPM": "%I:%M:%S %p"
+}
